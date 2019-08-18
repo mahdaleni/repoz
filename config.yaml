@@ -1,0 +1,40 @@
+
+title: Retina image Tester  
+description: Uji Retinopati diabetes dengan deep learning dan AI
+about:
+
+
+  Aplikasi berbasis web untuk menguji indikasi  Retinopati diabetes dengan metoda klasifikasi beberapa tingkat gejala melalui Artificial Intelligence dan Machine Learning  
+
+
+  How to use///
+  
+  
+  1. Arahkan Condenser Lens ke arah retina mata 
+  
+  
+  2, Ambil foto /image dari retina dengan kamera / melalui condenser Lens
+  
+  
+  3. Simpan gambar dalam gallery atau penyimpanan data 
+  
+  
+  Developer - Zulman Arif,ST
+  
+  
+  PERHATIAN/// RUJUKAN RESMI HARUS DARI DOKTER ATAU TENAGA AHLI MEDIS 
+
+
+code: https://id.m.wikipedia.org/wiki/Retinopati_diabetes
+
+sampleImages:
+  - name: No Retinopathy
+    url: https://i.imgur.com/bag6XaA.jpg
+  - name: Mild Nonproliferative Retinopathy
+    url: https://i.imgur.com/ZcLBb6b.jpg
+  - name: Moderate Nonproliferative Retinopathy
+    url: https://i.imgur.com/gLTumUd.jpg
+  - name: Severe Nonproliferative Retinopathy
+    url: https://i.imgur.com/Uw0rR4Y.jpg
+  - name: Proliferative Diabetic Retinopathy
+    url: https://i.imgur.com/TDUlmUa.jpg
